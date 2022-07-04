@@ -4,14 +4,14 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 896-0679-0112'],
-  ['+62 815-1569-6780'],
-  ['+62 815-1569-6780'],
-  ['+62 813-5290-5695'],
-  ['6289606790112', 'eza Gamteng ', true],
-  ['+62 815-1569-6780', 'Bot', true],
-  ['+84 34 979 0091', 'Johannes', true],
-  ['+62 813-5290-5695', 'pacar eza', true],
+  ['+62 896-6674-7744'],
+  ['+62 896-6674-7744'],
+  ['+62 896-6674-7744'],
+  ['+62 896-6674-7744'],
+  ['6289666747744', 'Prasz Gamteng ', true],
+  ['+62 896-6674-7744', 'Prasz', true],
+  ['+62 896-66747744', 'Prasz', true],
+  ['+62 896-6674-7744', ' Prasz', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,11 +39,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 EzaBot-MD あ⁩ 」' //Main Watermark
+global.wm = '                「 XyuziBot-MD あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ EzaBot-MD'
+global.wm3 = '⫹⫺ XyuziBot-MD'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -52,7 +52,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 EzaBot-MD BOT あ⁩ 」'
+global.author = '                「 XyuziBot-MD BOT あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -62,7 +62,7 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
 
-global.sgc = 'https://chat.whatsapp.com/HFdZ0islM3x5Y7eQpUQVU8'
+global.sgc = 'https://chat.whatsapp.com/Lr6KNr05PEHAy7romaot9N'
 global.sig = 'https://instagram.com/bot_whangsaf'
 
 //Ini cuma simpenan owner kanna kok :v
@@ -77,10 +77,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281515696780'
-global.nomorown = '6289606790112'
-global.namebot = 'EzaBot-MD'
-global.nameown = 'REZA GAMTENG'
+global.nomorbot = '6285156118594'
+global.nomorown = '6289666747744'
+global.namebot = 'XyuziMD'
+global.nameown = 'Prasz GAMTENG'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -110,8 +110,8 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
-global.packname = 'eza bot'
-global.author = 'owner Reza gamteng'
+global.packname = 'Xyuzi bot'
+global.author = 'owner Prasz gamteng'
 
 global.multiplier = 69 // The higher, The harder levelup
 
