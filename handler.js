@@ -733,8 +733,8 @@ export async function participantsUpdate({ id, participants, action }) {
                         ppgc = await this.profilePictureUrl(id, 'image')
                     } catch (e) {
                     } finally {
-                        text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user!').replace('@subject', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || 'unknow') :
-                            (chat.sBye || this.bye || conn.bye || 'Bye, @user!')).replace('@user', await this.getName(user))
+                        text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yahh,BEBANYA Nambah Deh selamat Join Wahai Beban Grub, @user!').replace('@subject', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || 'unknow') :
+                            (chat.sBye || this.bye || conn.bye || 'Yuhuu,Beban keluar Beban Berkuran 1q @user!')).replace('@user', await this.getName(user))
               let wel = await new knights.Welcome()
                 .setUsername(this.getName(user))
                 .setGuildName(groupMetadata.subject)
